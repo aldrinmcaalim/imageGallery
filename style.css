@@ -71,3 +71,8 @@ body {
     .panel p:nth-child(2) {
         font-size: 4em;
     }
+
+    .panel.open {
+        font-size: 40px;
+        flex: 5;
+    }
