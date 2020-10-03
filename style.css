@@ -13,3 +13,9 @@ body {
 *, *:before, *:after {
     box-sizing: inherit;
 }
+
+.panels {
+    min-height: 100vh;
+    overflow: hidden;
+    display: flex;
+}
